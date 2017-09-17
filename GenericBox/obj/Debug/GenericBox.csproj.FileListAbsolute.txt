@@ -1,0 +1,6 @@
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\bin\Debug\GenericBox.exe.config
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\bin\Debug\GenericBox.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\bin\Debug\GenericBox.pdb
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\obj\Debug\GenericBox.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\obj\Debug\GenericBox.pdb
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\GenericBox\obj\Debug\GenericBox.csprojResolveAssemblyReference.cache

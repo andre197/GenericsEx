@@ -1,0 +1,6 @@
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\bin\Debug\TupleProblem.exe.config
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\bin\Debug\TupleProblem.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\bin\Debug\TupleProblem.pdb
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\obj\Debug\TupleProblem.csprojResolveAssemblyReference.cache
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\obj\Debug\TupleProblem.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\TupleProblem\obj\Debug\TupleProblem.pdb

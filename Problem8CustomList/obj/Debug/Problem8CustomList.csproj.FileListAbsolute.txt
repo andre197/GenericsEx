@@ -1,0 +1,6 @@
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\bin\Debug\Problem8CustomList.exe.config
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\bin\Debug\Problem8CustomList.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\bin\Debug\Problem8CustomList.pdb
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\obj\Debug\Problem8CustomList.csprojResolveAssemblyReference.cache
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\obj\Debug\Problem8CustomList.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Problem8CustomList\obj\Debug\Problem8CustomList.pdb

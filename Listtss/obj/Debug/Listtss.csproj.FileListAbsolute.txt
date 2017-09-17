@@ -1,0 +1,6 @@
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\bin\Debug\Listtss.exe.config
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\bin\Debug\Listtss.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\bin\Debug\Listtss.pdb
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\obj\Debug\Listtss.csprojResolveAssemblyReference.cache
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\obj\Debug\Listtss.exe
+D:\Visual Studio\InterfaceAndAbstraction\GenericsEx\Listtss\obj\Debug\Listtss.pdb
